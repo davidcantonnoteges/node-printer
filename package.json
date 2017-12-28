@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/tojocky/node-printer.git"
+    "url": "git://github.com/davidcantonnoteges/node-printer.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
